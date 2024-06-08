@@ -1,3 +1,6 @@
+<img width="1974" alt="image" src="https://github.com/singhalrbl/forked-github-actions-course/assets/18571960/1cc8d7b3-58a2-4dcf-b7dc-336ffcb19cb1">
+
+
 # GitHub Actions Workflow Triggers
 
 GitHub Actions workflows are triggered by specific events that occur within your repository. These triggers define when a workflow should run, automating various tasks like continuous integration, testing, and deployment.
