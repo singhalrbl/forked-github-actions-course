@@ -1,3 +1,6 @@
+<img width="1985" alt="image" src="https://github.com/singhalrbl/forked-github-actions-course/assets/18571960/baebcd9a-595c-4d5e-ab71-c657309c2a31">
+
+
 # GitHub Actions Runners
 
 GitHub Actions provides the flexibility to run your workflows on different types of runners. Runners are the compute environments where your workflow jobs execute. There are two main categories of runners: GitHub-hosted runners and self-hosted runners.
