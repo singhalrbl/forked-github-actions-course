@@ -1,3 +1,6 @@
+![Uploading image.png…]()
+
+
 # GitHub Actions Workflows, Jobs, and Steps
 
 GitHub Actions is a powerful automation tool that allows you to build, test, and deploy your code right from your GitHub repository. Understanding the key building blocks — workflows, jobs, and steps — is essential for effective automation.
