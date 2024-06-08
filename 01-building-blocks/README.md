@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img width="1038" alt="image" src="https://github.com/singhalrbl/forked-github-actions-course/assets/18571960/9f1bf1ad-10b7-40e6-b65d-d7187b2d66ec">
+
 
 
 # GitHub Actions Workflows, Jobs, and Steps
